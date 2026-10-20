@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/bewitched-spam7-5nv6cl1wgolyrg.lua"))()
