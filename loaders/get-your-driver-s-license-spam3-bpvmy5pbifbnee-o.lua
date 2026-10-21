@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/get-your-driver-s-license-spam3-bpvmy5pbifbnee.lua"))()
