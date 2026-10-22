@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/path-2-mobile-dragon-generations-spam6-1z4azskjjotuo6.lua"))()
