@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/apocalypse-rising-2-spam3-eluasxteocybm4.lua"))()
