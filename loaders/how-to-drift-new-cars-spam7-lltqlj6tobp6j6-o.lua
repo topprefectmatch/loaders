@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/how-to-drift-new-cars-spam7-lltqlj6tobp6j6.lua"))()
